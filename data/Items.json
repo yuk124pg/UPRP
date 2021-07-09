@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":260,"itypeId":1,"name":"熱帯魚","note":"itemMaxNum:20","occasion":3,"price":50,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":162,"itypeId":2,"name":"UPRP","note":"itemMaxNum:9999999","occasion":3,"price":100,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":45,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":165,"itypeId":2,"name":"青UPRP","note":"itemMaxNum:9999999","occasion":3,"price":200,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":0,"itypeId":1,"name":"タラ","note":"itemMaxNum:9999999","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]
